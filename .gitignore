@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# My custom Content which is available free on unreal engine marketplace
+Content/InfinityBladeWeapons/
+Content/MedievalDungeon/
